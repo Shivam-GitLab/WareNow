@@ -1,1 +1,1 @@
-WareNow ( WMS Software )
+WareNow
